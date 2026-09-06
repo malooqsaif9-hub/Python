@@ -1,0 +1,6 @@
+This is the  file i created while studying file handling.This file is created using open function and in w mode in this mode we can write in the file and overrites the existing contentnow i am appending some content in the python file 
+now i am appending some content in the python file 
+now i am appending some content in the python file 
+now i am appending some content in the python file 
+now i am appending some content in the python file 
+now i am appending some content in the python file 
